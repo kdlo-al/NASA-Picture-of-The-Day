@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NASA-Picture-of-The_day/static/css/main.073c9b0a.css",
+    "main.js": "/NASA-Picture-of-The_day/static/js/main.e57ddefd.js",
+    "index.html": "/NASA-Picture-of-The_day/index.html",
+    "main.073c9b0a.css.map": "/NASA-Picture-of-The_day/static/css/main.073c9b0a.css.map",
+    "main.e57ddefd.js.map": "/NASA-Picture-of-The_day/static/js/main.e57ddefd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e57ddefd.js"
+  ]
+}
